@@ -1,0 +1,1 @@
+python3 -m onnx.export_onnx --ckpt-path=dist/pretrained/matting_0099.ckpt --outputpath=dist/pretrained/mymodel.onnx

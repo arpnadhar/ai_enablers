@@ -1,0 +1,569 @@
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:model load ./modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load ./models/modnet/pretrained/modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:model load .\models\modnet\pretrained\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load .\models\modnet\pretrained\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load .\models\modnet\pretrained\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load .\models\modnet\pretrained\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load .\models\modnet\pretrained\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load .\models\modnet\pretrained\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load .\models\modnet\pretrained\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load .\models\modnet\pretrained\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load .\models\modnet\pretrained\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load .\models\modnet\pretrained\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load .\models\modnet\pretrained\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 10/100, matte_loss: nan
+INFO:root:------save model------10  10.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 11/100, matte_loss: nan
+INFO:root:------save model------11  11.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 12/100, matte_loss: nan
+INFO:root:------save model------12  12.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 13/100, matte_loss: nan
+INFO:root:------save model------13  13.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 14/100, matte_loss: nan
+INFO:root:------save model------14  14.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:model load savemodel\matting_0014.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 10/100, matte_loss: nan
+INFO:root:------save model------10  10.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 11/100, matte_loss: nan
+INFO:root:------save model------11  11.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 12/100, matte_loss: nan
+INFO:root:------save model------12  12.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 13/100, matte_loss: nan
+INFO:root:------save model------13  13.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 14/100, matte_loss: nan
+INFO:root:------save model------14  14.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 15/100, matte_loss: nan
+INFO:root:------save model------15  15.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 16/100, matte_loss: nan
+INFO:root:------save model------16  16.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 17/100, matte_loss: nan
+INFO:root:------save model------17  17.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 18/100, matte_loss: nan
+INFO:root:------save model------18  18.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 19/100, matte_loss: nan
+INFO:root:------save model------19  19.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 20/100, matte_loss: nan
+INFO:root:------save model------20  20.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 21/100, matte_loss: nan
+INFO:root:------save model------21  21.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 22/100, matte_loss: nan
+INFO:root:------save model------22  22.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 23/100, matte_loss: nan
+INFO:root:------save model------23  23.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 24/100, matte_loss: nan
+INFO:root:------save model------24  24.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 25/100, matte_loss: nan
+INFO:root:------save model------25  25.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 26/100, matte_loss: nan
+INFO:root:------save model------26  26.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 27/100, matte_loss: nan
+INFO:root:------save model------27  27.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 28/100, matte_loss: nan
+INFO:root:------save model------28  28.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 29/100, matte_loss: nan
+INFO:root:------save model------29  29.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 30/100, matte_loss: nan
+INFO:root:------save model------30  30.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 31/100, matte_loss: nan
+INFO:root:------save model------31  31.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 32/100, matte_loss: nan
+INFO:root:------save model------32  32.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 33/100, matte_loss: nan
+INFO:root:------save model------33  33.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 34/100, matte_loss: nan
+INFO:root:------save model------34  34.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 35/100, matte_loss: nan
+INFO:root:------save model------35  35.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 36/100, matte_loss: nan
+INFO:root:------save model------36  36.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 37/100, matte_loss: nan
+INFO:root:------save model------37  37.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 38/100, matte_loss: nan
+INFO:root:------save model------38  38.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 39/100, matte_loss: nan
+INFO:root:------save model------39  39.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 40/100, matte_loss: nan
+INFO:root:------save model------40  40.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 41/100, matte_loss: nan
+INFO:root:------save model------41  41.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 42/100, matte_loss: nan
+INFO:root:------save model------42  42.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 43/100, matte_loss: nan
+INFO:root:------save model------43  43.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 44/100, matte_loss: nan
+INFO:root:------save model------44  44.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 45/100, matte_loss: nan
+INFO:root:------save model------45  45.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 46/100, matte_loss: nan
+INFO:root:------save model------46  46.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 47/100, matte_loss: nan
+INFO:root:------save model------47  47.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 48/100, matte_loss: nan
+INFO:root:------save model------48  48.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 49/100, matte_loss: nan
+INFO:root:------save model------49  49.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 50/100, matte_loss: nan
+INFO:root:------save model------50  50.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 51/100, matte_loss: nan
+INFO:root:------save model------51  51.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 52/100, matte_loss: nan
+INFO:root:------save model------52  52.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 53/100, matte_loss: nan
+INFO:root:------save model------53  53.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 54/100, matte_loss: nan
+INFO:root:------save model------54  54.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 55/100, matte_loss: nan
+INFO:root:------save model------55  55.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 56/100, matte_loss: nan
+INFO:root:------save model------56  56.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 57/100, matte_loss: nan
+INFO:root:------save model------57  57.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 58/100, matte_loss: nan
+INFO:root:------save model------58  58.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 59/100, matte_loss: nan
+INFO:root:------save model------59  59.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 60/100, matte_loss: nan
+INFO:root:------save model------60  60.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 61/100, matte_loss: nan
+INFO:root:------save model------61  61.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 62/100, matte_loss: nan
+INFO:root:------save model------62  62.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 63/100, matte_loss: nan
+INFO:root:------save model------63  63.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 64/100, matte_loss: nan
+INFO:root:------save model------64  64.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 65/100, matte_loss: nan
+INFO:root:------save model------65  65.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 66/100, matte_loss: nan
+INFO:root:------save model------66  66.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 67/100, matte_loss: nan
+INFO:root:------save model------67  67.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 68/100, matte_loss: nan
+INFO:root:------save model------68  68.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 69/100, matte_loss: nan
+INFO:root:------save model------69  69.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 70/100, matte_loss: nan
+INFO:root:------save model------70  70.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 71/100, matte_loss: nan
+INFO:root:------save model------71  71.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 72/100, matte_loss: nan
+INFO:root:------save model------72  72.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 73/100, matte_loss: nan
+INFO:root:------save model------73  73.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 74/100, matte_loss: nan
+INFO:root:------save model------74  74.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 75/100, matte_loss: nan
+INFO:root:------save model------75  75.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 76/100, matte_loss: nan
+INFO:root:------save model------76  76.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 77/100, matte_loss: nan
+INFO:root:------save model------77  77.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 78/100, matte_loss: nan
+INFO:root:------save model------78  78.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 79/100, matte_loss: nan
+INFO:root:------save model------79  79.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 80/100, matte_loss: nan
+INFO:root:------save model------80  80.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 81/100, matte_loss: nan
+INFO:root:------save model------81  81.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 82/100, matte_loss: nan
+INFO:root:------save model------82  82.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 83/100, matte_loss: nan
+INFO:root:------save model------83  83.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 84/100, matte_loss: nan
+INFO:root:------save model------84  84.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 85/100, matte_loss: nan
+INFO:root:------save model------85  85.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 86/100, matte_loss: nan
+INFO:root:------save model------86  86.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 87/100, matte_loss: nan
+INFO:root:------save model------87  87.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 88/100, matte_loss: nan
+INFO:root:------save model------88  88.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 89/100, matte_loss: nan
+INFO:root:------save model------89  89.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 90/100, matte_loss: nan
+INFO:root:------save model------90  90.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 91/100, matte_loss: nan
+INFO:root:------save model------91  91.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 92/100, matte_loss: nan
+INFO:root:------save model------92  92.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 93/100, matte_loss: nan
+INFO:root:------save model------93  93.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 94/100, matte_loss: nan
+INFO:root:------save model------94  94.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 95/100, matte_loss: nan
+INFO:root:------save model------95  95.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 96/100, matte_loss: nan
+INFO:root:------save model------96  96.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 97/100, matte_loss: nan
+INFO:root:------save model------97  97.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 98/100, matte_loss: nan
+INFO:root:------save model------98  98.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:epoch: 99/100, matte_loss: nan
+INFO:root:------save model------99  99.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:--------------------------------
+INFO:root:model load SaveModel\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:model load SaveModel\modnet_webcam_portrait_matting.ckpt
+INFO:root:--------------------------------
+INFO:root:--------------------------------

@@ -1,0 +1,1 @@
+pyinstaller --onefile --name prepress_studio_BDIPLPREPDOMES321 __main__.py
